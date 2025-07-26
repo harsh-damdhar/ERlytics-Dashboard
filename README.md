@@ -26,7 +26,7 @@ ERlytics is a dynamic Excel-based dashboard designed to analyze and visualize em
    - Design intuitive charts (bar, line, pie, gauge) for quick understanding.
    - Use Excel slicers and drop-downs for filtering by age group, date, year, gender.
 
-## 📈 KPIs Tracked
+## 📈 KPIs 
 - 🧍 Total Patients
 - ⏱️ Avg. Waiting Time
 - 🌟 Patient Satisfaction Score
