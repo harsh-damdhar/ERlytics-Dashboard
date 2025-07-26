@@ -3,7 +3,8 @@ ERlytics is a dynamic Excel-based dashboard designed to analyze and visualize em
 
 ## 🏥 Project Overview
 This Excel-based analytics dashboard is designed to support healthcare administrators and emergency room (ER) staff in monitoring, analyzing, and improving performance within the hospital emergency department. By transforming raw data into actionable insights, the dashboard enhances visibility into key operational metrics, enabling data-driven decision-making and improved patient outcomes.
-
+## Data Set Used
+- <https://github.com/harsh-damdhar/ERlytics-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv>Hospital Emergency Room Data
 ## 🎯 Objectives
 - **Monitor ER performance** in real time through visual insights.
 - **Identify bottlenecks** in patient flow and resource utilization.
