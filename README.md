@@ -8,7 +8,7 @@ ERlytics is a dynamic Excel-based dashboard designed to analyze and visualize em
 - **Enable forecasting** and capacity planning based on historical trends.
 - **Improve patient care delivery** by reducing wait times and optimizing throughput.
   
-## 📈 Data Set Used
+## 🧾 Data Set Used
 - <a href="https://github.com/harsh-damdhar/ERlytics-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset
   
 ## 📁 Project
@@ -25,6 +25,16 @@ ERlytics is a dynamic Excel-based dashboard designed to analyze and visualize em
    - Employ Conditional Formatting for visual alerts.
    - Design intuitive charts (bar, line, pie, gauge) for quick understanding.
    - Use Excel slicers and drop-downs for filtering by age group, date, year, gender.
+
+## 📈 KPIs Tracked
+- 🧍 Total Patients
+- ⏱️ Avg. Waiting Time
+- 🌟 Patient Satisfaction Score
+- 👩‍⚕️ Gender Split
+- 👶 Age Range
+
+## 💡 Insights
+- This dashboard helps identify wait-time trends, demographic usage patterns, and ER performance against patient experience, enabling better planning and staffing decisions.
      
 ## Requirements
 - Microsoft Excel 2019 or later (Power Query and Power Pivot features).
