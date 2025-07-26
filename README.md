@@ -24,7 +24,7 @@ This Excel-based analytics dashboard is designed to support healthcare administr
    - Use Excel slicers and drop-downs for filtering by age group, date, year, gender.
      
 ## 📌 Dashboard Features
-
+- <a href=https://github.com/harsh-damdhar/ERlytics-Dashboard/blob/main/ERlytics-Dashboard.png>Dashboard
 - **Interactive Filters:** Filter data by date, age group, year.
 - **Trend Analysis:** Visualize patterns in ER visits, wait times on monthly basis or day basis.
 - **Heatmaps:** Identify high-load periods and bottlenecks.
