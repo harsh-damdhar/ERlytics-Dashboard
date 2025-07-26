@@ -3,8 +3,10 @@ ERlytics is a dynamic Excel-based dashboard designed to analyze and visualize em
 
 ## 🏥 Project Overview
 This Excel-based analytics dashboard is designed to support healthcare administrators and emergency room (ER) staff in monitoring, analyzing, and improving performance within the hospital emergency department. By transforming raw data into actionable insights, the dashboard enhances visibility into key operational metrics, enabling data-driven decision-making and improved patient outcomes.
-## Data Set Used
-- <a href="https://github.com/harsh-damdhar/ERlytics-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Hospital Emergency Room Data
+
+## 📊 Data Set Used
+- <a href="https://github.com/harsh-damdhar/ERlytics-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset
+  
 ## 🎯 Objectives
 - **Monitor ER performance** in real time through visual insights.
 - **Identify bottlenecks** in patient flow and resource utilization.
@@ -13,28 +15,22 @@ This Excel-based analytics dashboard is designed to support healthcare administr
 - **Improve patient care delivery** by reducing wait times and optimizing throughput.
   
 ## ⚙️ Process Workflow
-1. **Data Collection**  
-   - Collect historical and real-time ER data from hospital systems (EHRs, patient logs, etc.)
-   - Data includes timestamps, patient IDs, triage levels, staff assignments, and outcomes.
-2. **Data Preparation**  
+   - Collect historical and real-time ER data from hospital systems.
    - Clean, de-duplicate, and format raw data in Excel.
    - Create structured tables (using Excel Tables) for time-series and categorical analysis.
-3. **Dashboard Development**  
-   - Use PivotTables, PivotCharts, slicers, and formulas (e.g., `AVERAGEIFS`, `COUNTIFS`) to build interactive views.
-   - Employ Conditional Formatting for visual alerts (e.g., wait times above target).
-4. **Visualization & Reporting**  
+   - Use PivotTables, PivotCharts, slicers, and formulas to build interactive views.
+   - Employ Conditional Formatting for visual alerts.
    - Design intuitive charts (bar, line, pie, gauge) for quick understanding.
-   - Use Excel slicers and drop-downs for filtering by date, department, or triage level.
+   - Use Excel slicers and drop-downs for filtering by age group, date, year, gender.
      
 ## 📌 Dashboard Features
-- **Interactive Filters:** Filter data by date, triage category, age group, etc.
-- **Trend Analysis:** Visualize patterns in ER visits, wait times, and LOS.
+
+- **Interactive Filters:** Filter data by date, age group, year.
+- **Trend Analysis:** Visualize patterns in ER visits, wait times on monthly basis or day basis.
 - **Heatmaps:** Identify high-load periods and bottlenecks.
-- **Alerts:** Highlight KPIs not meeting target thresholds (e.g., 90th percentile waits).
-- **Dynamic Summaries:** Auto-updating stats for management reporting.
 
 ## Requirements
-- Microsoft Excel 2016 or later (Power Query and Power Pivot features)
+- Microsoft Excel 2019 or later (Power Query and Power Pivot features)
 - Raw ER data in structured Excel/CSV format
 - Basic familiarity with Excel functions and PivotTables
 
