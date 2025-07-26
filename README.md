@@ -34,3 +34,5 @@ ERlytics is a dynamic Excel-based dashboard designed to analyze and visualize em
 ## Conclusion
 The Hospital Emergency Room Data Analytics Dashboard serves as a powerful, Excel-based decision-support tool for healthcare administrators and frontline teams. By transforming raw emergency department data into clear, actionable insights, the dashboard helps identify operational inefficiencies, track clinical performance, and improve patient care delivery.
 
+# Dashboard
+<img width="1191" height="570" alt="ERlytics-Dashboard" src="https://github.com/user-attachments/assets/222bb988-45d6-4ebb-b0a9-c907793bd68b" />
