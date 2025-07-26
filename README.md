@@ -8,7 +8,7 @@ ERlytics is a dynamic Excel-based dashboard designed to analyze and visualize em
 - <a href=https://github.com/harsh-damdhar/ERlytics-Dashboard/blob/main/ERlytics-Dashboard.png>View Dashboard
 
 ## Interactive Dashboard
-- 
+- <https://github.com/harsh-damdhar/ERlytics-Dashboard/blob/main/ERlytics-Dashboard.xlsx>View Project
 
 ## 🎯 Objectives
 - **Monitor ER performance** in real time through visual insights.
